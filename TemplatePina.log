@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  27 SEP 2023 18:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  27 SEP 2023 18:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -245,46 +245,7 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
-y
-Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count276
-\Gm@cntv=\count277
-\c@Gm@tempcnt=\count278
-\Gm@bindingoffset=\dimen158
-\Gm@wd@mp=\dimen159
-\Gm@odd@mp=\dimen160
-\Gm@even@mp=\dimen161
-\Gm@layoutwidth=\dimen162
-\Gm@layoutheight=\dimen163
-\Gm@layouthoffset=\dimen164
-\Gm@layoutvoffset=\dimen165
-\Gm@dimlist=\toks24
-
-(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-
-(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer-sc
-rpage.sty
-Package: scrlayer-scrpage 2022/10/12 v3.38 KOMA-Script package (end user interf
-ace for scrlayer)
-
-(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer.st
-y
-Package: scrlayer 2022/10/12 v3.38 KOMA-Script package (defining layers and pag
-e styles)
-Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 217
-6.
-)
-Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
-(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1089.
-)
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/tablefootnote\tablefoot
 note.sty
 Package: tablefootnote 2014/01/26 v1.1c Table foot notes (HMM)
@@ -307,11 +268,34 @@ Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 ))
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count279
+\etb@tempcnta=\count276
 )) (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.st
 y
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+) (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
+\Gm@bindingoffset=\dimen158
+\Gm@wd@mp=\dimen159
+\Gm@odd@mp=\dimen160
+\Gm@even@mp=\dimen161
+\Gm@layoutwidth=\dimen162
+\Gm@layoutheight=\dimen163
+\Gm@layouthoffset=\dimen164
+\Gm@layoutvoffset=\dimen165
+\Gm@dimlist=\toks24
+
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
@@ -589,29 +573,29 @@ LaTeX Warning: Unused global option(s):
 (TemplatePina.aux)
 \openout1 = `TemplatePina.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-Package scrbase Info: activating english \abstractname on input line 67.
-Package scrbase Info: activating english \partname on input line 67.
-Package scrbase Info: activating english \figurename on input line 67.
-Package scrbase Info: activating english \tablename on input line 67.
-Package scrbase Info: activating english \contentsname on input line 67.
-Package scrbase Info: activating english \listfigurename on input line 67.
-Package scrbase Info: activating english \listtablename on input line 67.
-Package scrbase Info: activating english \refname on input line 67.
-Package scrbase Info: activating english \indexname on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+Package scrbase Info: activating english \abstractname on input line 59.
+Package scrbase Info: activating english \partname on input line 59.
+Package scrbase Info: activating english \figurename on input line 59.
+Package scrbase Info: activating english \tablename on input line 59.
+Package scrbase Info: activating english \contentsname on input line 59.
+Package scrbase Info: activating english \listfigurename on input line 59.
+Package scrbase Info: activating english \listtablename on input line 59.
+Package scrbase Info: activating english \refname on input line 59.
+Package scrbase Info: activating english \indexname on input line 59.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -710,8 +694,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'TemplatePina.bbl' found.
  (TemplatePina.bbl)
-Package biblatex Info: Reference section=0 on input line 67.
-Package biblatex Info: Reference segment=0 on input line 67.
+Package biblatex Info: Reference section=0 on input line 59.
+Package biblatex Info: Reference segment=0 on input line 59.
  [1
 
 {C:/Users/pinak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (TemplatePin
@@ -719,21 +703,9 @@ a.toc)
 \tf@toc=\write4
 \openout4 = `TemplatePina.toc'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 98.
+ [1] [2]
 
-
-(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 98.
-
-
-(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-[1] [2]
-
-LaTeX Warning: Empty bibliography on input line 117.
+LaTeX Warning: Empty bibliography on input line 109.
 
 (TemplatePina.aux)
 Package logreq Info: Writing requests to 'TemplatePina.run.xml'.
@@ -741,13 +713,13 @@ Package logreq Info: Writing requests to 'TemplatePina.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16119 strings out of 475385
- 341102 string characters out of 2776907
- 1240897 words of memory out of 3000000
- 37336 multiletter control sequences out of 15000+600000
- 477605 words of font info for 58 fonts, out of 8000000 for 9000
+ 14704 strings out of 475385
+ 292168 string characters out of 2776907
+ 1174250 words of memory out of 3000000
+ 35946 multiletter control sequences out of 15000+600000
+ 472904 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,20n,106p,10609b,801s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 108i,7n,106p,10636b,801s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmcsc10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/
@@ -755,7 +727,7 @@ public/amsfonts/cm/cmr10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pinak/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/pinak/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on TemplatePina.pdf (3 pages, 70901 bytes).
+Output written on TemplatePina.pdf (3 pages, 70900 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

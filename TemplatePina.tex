@@ -1,50 +1,41 @@
 \documentclass[a4]{scrartcl}
-
+%----------------------------------------
 % German language
 % \usepackage[ngerman]{babel}
-
+%----------------------------------------
 % Input in UTF8 accepted
 \usepackage[utf8]{inputenc}
-
-% 
+%----------------------------------------
+% Math-packages
 \usepackage{mathtools}
-
-%
 \usepackage{amsmath}
-
-%
 \usepackage{amssymb}
-
-%
-\usepackage{geometry}
-
-%
-\usepackage{scrlayer-scrpage}
-\pagestyle{scrheadings}
-
-%
-\usepackage{tablefootnote}
-
-%
+%----------------------------------------
+% Design choices (?)
+%\usepackage{scrlayer-scrpage}
+%\pagestyle{scrheadings}
 % \clearscrheadfoot
-
-
-%
+%----------------------------------------
+% Footnotes in tables
+\usepackage{tablefootnote}
+%----------------------------------------
+%----------------------------------------
+% no parindent
 \setlength{\parindent}{0em}
-
-
-%
+%----------------------------------------
+% different gap between paragraphs
 \setlength{\parskip}{1.3ex}
-
-%
+%----------------------------------------
+% spacing between lines
 \usepackage[onehalfspacing]{setspace}
-
-%
+%----------------------------------------
+% Hurenkinder und Schusterjungen vermeiden
 \clubpenalty = 10000
 \widowpenalty = 10000
 \displaywidowpenalty = 10000
-
-%
+%----------------------------------------
+% Geometry package
+\usepackage{geometry}
 \geometry{
 	paper=a4paper, % Change to letterpaper for US letter
 	top=3cm, % Top margin
@@ -53,16 +44,17 @@
 	right=3cm, % Right margin
 	%showframe, % Uncomment to show how the type block is set on the page
 }
-
-%
+%----------------------------------------
+% References
 \usepackage[backend=biber, maxbibnames=99]{biblatex}
 \addbibresource{references.bib}
-
-
-
+%----------------------------------------
 %\ohead{\\
 %	Pina Kolling\\
 %	piko0011}
+
+%----------------------------------------------------------------------------
+%----------------------------------------------------------------------------
 
 \begin{document}
 	
