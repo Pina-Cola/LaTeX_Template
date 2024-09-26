@@ -63,6 +63,52 @@
 %	Pina Kolling\\
 %	piko0011}
 
+%---------------------------------------
+% Colour scheme:
+\usepackage[dvipsnames]{xcolor}
+\usepackage{sectsty}
+\sectionfont{\color{DarkOrchid}}
+\subsectionfont{\color{DarkOrchid}}
+
+\renewcommand{\labelitemi}{$\textcolor{BurntOrange}{\bullet}$}
+\renewcommand{\labelitemii}{$\textcolor{BurntOrange}{\cdot}$}
+\renewcommand{\labelitemiii}{$\textcolor{BurntOrange}{\diamond}$}
+\renewcommand{\labelitemiv}{$\textcolor{BurntOrange}{\ast}$}
+
+%---------------------------------------
+% Acronym package
+\usepackage{acronym}
+
+%----------------------------------------
+% Definition Box
+
+\usepackage{tcolorbox}
+\usepackage[framemethod=TikZ]{mdframed}
+% Style %
+\mdfdefinestyle{enviStyle}{
+	innertopmargin = 10pt,
+	linewidth      = 1pt,
+	frametitlerule = true,
+	roundcorner    = 2pt%
+}
+
+\newenvironment{CountingDefinition}[2][]{%
+	\ifstrempty{#1}%
+	{\mdfsetup{%
+			frametitle={{\strut ~}}}
+	}%
+	{\mdfsetup{%
+			frametitle={{\strut ~#1}}}%
+	}%
+	\mdfsetup{
+		nobreak                   = true,
+		linecolor                 = DarkOrchid,
+		frametitlebackgroundcolor = DarkOrchid!50,
+		style                     = enviStyle
+	}
+	\begin{mdframed}[]\relax%
+		\label{#2}}{\end{mdframed}}
+
 %----------------------------------------------------------------------------
 %----------------------------------------------------------------------------
 
@@ -99,13 +145,41 @@
 	
 	\newpage
 	
+
+\section*{List of Abbreviations}
+
+\begin{acronym}[DARPA]
 	
+	\acro{CLI}{Command Line Interface}
+	% \acro{}{}
+	
+\end{acronym}
+
+
+
+
+% \newpage
+
 	
 	
 
 %-------------------------------------------------------------------------------------------
-	\section{Section 1} \label{sec:1}
+\section{Section 1} \label{sec:1}
 
+
+
+\begin{CountingDefinition}[Placeholder]{def:5myths}
+	
+	
+	Test
+	
+	
+\end{CountingDefinition}
+
+
+\begin{itemize}
+	\item Test to check out the colours
+\end{itemize}
 
 
 
