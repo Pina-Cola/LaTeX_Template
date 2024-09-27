@@ -71,13 +71,17 @@
 % Colour scheme:
 \usepackage[dvipsnames]{xcolor}
 \usepackage{sectsty}
-\sectionfont{\color{DarkOrchid}}
-\subsectionfont{\color{DarkOrchid}}
 
-\renewcommand{\labelitemi}{$\textcolor{BurntOrange}{\bullet}$}
-\renewcommand{\labelitemii}{$\textcolor{BurntOrange}{\cdot}$}
-\renewcommand{\labelitemiii}{$\textcolor{BurntOrange}{\diamond}$}
-\renewcommand{\labelitemiv}{$\textcolor{BurntOrange}{\ast}$}
+\definecolor{titles}{named}{DarkOrchid}  
+\definecolor{bulletpoints}{RGB}{153,0,0}  
+
+\sectionfont{\color{titles}}
+\subsectionfont{\color{titles}}
+
+\renewcommand{\labelitemi}{$\textcolor{bulletpoints}{\bullet}$}
+\renewcommand{\labelitemii}{$\textcolor{bulletpoints}{\cdot}$}
+\renewcommand{\labelitemiii}{$\textcolor{bulletpoints}{\diamond}$}
+\renewcommand{\labelitemiv}{$\textcolor{bulletpoints}{\ast}$}
 
 %---------------------------------------
 % Acronym package
@@ -106,8 +110,8 @@
 	}%
 	\mdfsetup{
 		nobreak                   = true,
-		linecolor                 = DarkOrchid,
-		frametitlebackgroundcolor = DarkOrchid!50,
+		linecolor                 = bulletpoints,
+		frametitlebackgroundcolor = bulletpoints!50,
 		style                     = enviStyle
 	}
 	\begin{mdframed}[]\relax%
@@ -122,9 +126,9 @@
 		\centering
 		{\scshape\LARGE Umeå University \par}
 		\vspace{1cm}
-		{\scshape\Large Name of the Course \par }
+		{\scshape\Large \textcolor{bulletpoints}{Name of the Course} \par }
 		\vspace{1.5cm}
-		{\huge\bfseries  Title \par}
+		{\huge\bfseries  \textcolor{titles}{Title} \par}
 		\vspace{2cm}
 		{\Large\itshape Pina Kolling\par}
 		\vfill
