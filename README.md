@@ -1,10 +1,11 @@
 # LaTeX Templates
 
-This repository contains my custom LaTeX templates for assignments, reports, essays, theses, and other texts.
+This repository contains my custom LaTeX templates for assignments, reports, essays, theses and other texts.
 
 ## Templates Included
 - **Umeå University** 
 - **Leibniz University Hannover**
+  
 The university name on the title page can be exchanged easily.
 
 ## Features
